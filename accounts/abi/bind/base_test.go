@@ -24,7 +24,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nim4/arb-ethereum"
+	"github.com/nim4/go-arbitrum"
 	"github.com/nim4/go-arbitrum/accounts/abi"
 	"github.com/nim4/go-arbitrum/accounts/abi/bind"
 	"github.com/nim4/go-arbitrum/common"

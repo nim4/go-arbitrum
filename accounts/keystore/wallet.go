@@ -19,7 +19,7 @@ package keystore
 import (
 	"math/big"
 
-	"github.com/nim4/arb-ethereum"
+	"github.com/nim4/go-arbitrum"
 	"github.com/nim4/go-arbitrum/accounts"
 	"github.com/nim4/go-arbitrum/core/types"
 	"github.com/nim4/go-arbitrum/crypto"

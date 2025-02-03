@@ -1,4 +1,4 @@
-module github.com/nim4/arb-ethereum
+module github.com/nim4/go-arbitrum
 
 go 1.21
 

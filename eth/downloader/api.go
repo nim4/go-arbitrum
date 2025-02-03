@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nim4/arb-ethereum"
+	"github.com/nim4/go-arbitrum"
 	"github.com/nim4/go-arbitrum/core"
 	"github.com/nim4/go-arbitrum/event"
 	"github.com/nim4/go-arbitrum/rpc"

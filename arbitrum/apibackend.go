@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nim4/arb-ethereum"
+	"github.com/nim4/go-arbitrum"
 	"github.com/nim4/go-arbitrum/accounts"
 	"github.com/nim4/go-arbitrum/arbitrum_types"
 	"github.com/nim4/go-arbitrum/common"

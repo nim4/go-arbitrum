@@ -35,7 +35,7 @@ import (
 	"github.com/holiman/uint256"
 	"github.com/stretchr/testify/require"
 
-	"github.com/nim4/arb-ethereum"
+	"github.com/nim4/go-arbitrum"
 	"github.com/nim4/go-arbitrum/accounts"
 	"github.com/nim4/go-arbitrum/accounts/keystore"
 	"github.com/nim4/go-arbitrum/common"

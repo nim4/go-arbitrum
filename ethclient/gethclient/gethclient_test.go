@@ -23,7 +23,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/nim4/arb-ethereum"
+	"github.com/nim4/go-arbitrum"
 	"github.com/nim4/go-arbitrum/common"
 	"github.com/nim4/go-arbitrum/consensus/ethash"
 	"github.com/nim4/go-arbitrum/core"

@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/nim4/arb-ethereum"
+	"github.com/nim4/go-arbitrum"
 	"github.com/nim4/go-arbitrum/common"
 	"github.com/nim4/go-arbitrum/common/hexutil"
 	"github.com/nim4/go-arbitrum/core/types"

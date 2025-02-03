@@ -26,7 +26,7 @@ import (
 	"github.com/nim4/go-arbitrum/params"
 )
 
-const ourPath = "github.com/nim4/arb-ethereum" // Path to our module
+const ourPath = "github.com/nim4/go-arbitrum" // Path to our module
 
 // These variables are set at build-time by the linker when the build is
 // done by build/ci.go.

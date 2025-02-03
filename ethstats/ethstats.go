@@ -30,7 +30,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nim4/arb-ethereum"
+	"github.com/nim4/go-arbitrum"
 	"github.com/nim4/go-arbitrum/common"
 	"github.com/nim4/go-arbitrum/common/mclock"
 	"github.com/nim4/go-arbitrum/consensus"

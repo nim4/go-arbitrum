@@ -5,8 +5,8 @@ Maintainer: {{.Author}}
 Build-Depends: debhelper (>= 8.0.0), golang-go
 Standards-Version: 3.9.5
 Homepage: https://ethereum.org
-Vcs-Git: https://github.com/nim4/arb-ethereum.git
-Vcs-Browser: https://github.com/nim4/arb-ethereum
+Vcs-Git: https://github.com/nim4/go-arbitrum.git
+Vcs-Browser: https://github.com/nim4/go-arbitrum
 
 Package: {{.Name}}
 Architecture: any

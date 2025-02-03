@@ -1,5 +1,5 @@
 language: go
-go_import_path: github.com/nim4/arb-ethereum
+go_import_path: github.com/nim4/go-arbitrum
 sudo: false
 jobs:
   allow_failures:

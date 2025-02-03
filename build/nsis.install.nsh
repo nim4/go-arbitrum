@@ -5,7 +5,7 @@ OutFile "${OUTPUTFILE}" # set through command line arguments
 # Links for "Add/Remove Programs"
 !define HELPURL "https://github.com/nim4/go-arbitrum/issues"
 !define UPDATEURL "https://github.com/nim4/go-arbitrum/releases"
-!define ABOUTURL "https://github.com/nim4/arb-ethereum#ethereum-go"
+!define ABOUTURL "https://github.com/nim4/go-arbitrum#ethereum-go"
 !define /date NOW "%Y%m%d"
 
 PageEx license

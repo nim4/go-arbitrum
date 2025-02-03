@@ -3,9 +3,9 @@
 Golang execution layer implementation of the Ethereum protocol.
 
 [![API Reference](
-https://pkg.go.dev/badge/github.com/nim4/arb-ethereum
-)](https://pkg.go.dev/github.com/nim4/arb-ethereum?tab=doc)
-[![Go Report Card](https://goreportcard.com/badge/github.com/nim4/arb-ethereum)](https://goreportcard.com/report/github.com/nim4/arb-ethereum)
+https://pkg.go.dev/badge/github.com/nim4/go-arbitrum
+)](https://pkg.go.dev/github.com/nim4/go-arbitrum?tab=doc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nim4/go-arbitrum)](https://goreportcard.com/report/github.com/nim4/go-arbitrum)
 [![Travis](https://app.travis-ci.com/ethereum/go-ethereum.svg?branch=master)](https://app.travis-ci.com/github/ethereum/go-ethereum)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/nthXNEv)
 

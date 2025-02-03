@@ -1,6 +1,6 @@
 module github.com/nim4/go-arbitrum
 
-go 1.21
+go 1.23
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.2.0
